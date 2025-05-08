@@ -19,4 +19,4 @@ This project delivers a comprehensive analysis of Blinkit’s grocery data using
 ### FUTURE ENHANCEMENTS
 - AUTOMATE DATA PIPELINES FOR REAL-TIME DASHBOARD UPDATES.  
 
-![Dashboard Preview](Report image.png)
+
