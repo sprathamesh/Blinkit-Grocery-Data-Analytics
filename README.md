@@ -12,23 +12,11 @@ This project delivers a comprehensive analysis of Blinkit’s grocery data using
 - DATA VISUALIZATION: Created clear, insightful charts and dashboards.  
 - REPORTING: Delivered a comprehensive report summarizing key insights.
 
-### KEY INSIGHTS & IMPACT
-- TOP PERFORMING PRODUCTS & OUTLETS: Identified high-revenue items and stores driving sales growth.  
-- SALES TRENDS: Analyzed sales variations by year, item type, and packaging format.  
-- CUSTOMER RATINGS ANALYSIS: Explored the relationship between product ratings and sales performance.  
-- CUSTOMIZED METRICS: Developed tailored KPIs to monitor business health and customer satisfaction.
-
 ### TOOLS & TECHNOLOGIES
 - MICROSOFT EXCEL: For data cleaning, processing, pivot analysis, and visualization.
 - SQL: For querying, aggregating, and transforming the dataset efficiently.
 
 ### FUTURE ENHANCEMENTS
-- INTEGRATE ADDITIONAL DATA SOURCES SUCH AS PROMOTIONAL CAMPAIGNS AND INVENTORY LEVELS.  
 - AUTOMATE DATA PIPELINES FOR REAL-TIME DASHBOARD UPDATES.  
-- INCORPORATE PREDICTIVE ANALYTICS TO FORECAST SALES AND CUSTOMER BEHAVIOR.
 
-Crafted with care to showcase the power of data analytics in transforming Blinkit’s grocery operations.
-
-Thank you for exploring this project!
-Your feedback and collaboration are welcome to further enhance the analysis and its business value.
-
+![Dashboard Preview](report_image.png)
